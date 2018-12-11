@@ -2,6 +2,7 @@
   "name": "learning-with-a-travel-site",
   "version": "1.0.0",
   "dependencies": {
+    "ion-rangeslider": "^2.2.0",
     "jquery": "^3.3.1",
     "normalize.css": "^8.0.0"
   },
